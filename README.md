@@ -1,4 +1,4 @@
-# node-tdd dddd
+# node-tdd dd
 Exemplo de desenvolvimento de API em Node.js usando TDD
 
 ## Instalar dependências
